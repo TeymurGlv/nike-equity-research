@@ -2,7 +2,7 @@
 
 **Rating: HOLD | 12-month target price: $34 | Price at pricing date (17 Nov 2026): $36.25**
 
-📄 [Read the full report (PDF)](Nike Initiation Report.pdf) · 📊 [Valuation model (Excel)](Nike Valuation Model.xlsx)
+📄 [Read the full report (PDF)](Nike%20Initiation%20Report.pdf) · 📊 [Valuation model (Excel)](Nike%20Valuation%20Model.xlsx)
 
 ## Thesis
 - At $36.25 the market already prices a ~12% FY31 operating margin, the bottom of management's 12–14% target.
